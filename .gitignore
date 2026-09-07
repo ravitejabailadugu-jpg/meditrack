@@ -1,0 +1,15 @@
+# Standard Vite/React gitignore
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor folders
+.vscode
+.idea
+.antigravity
+.gemini
+
+# OS files
+.DS_Store
+Thumbs.db
